@@ -17,21 +17,21 @@
   <img src="https://img.shields.io/badge/Data-10B981?style=flat-square" alt="Data">
 </p>
 
-Gather and analyze business requirements
+- Gather and analyze business requirements
 
-Translate business needs into functional requirements
+- Translate business needs into functional requirements
 
-Map business processes, system flows, and data flows
+- Map business processes, system flows, and data flows
 
-Write user stories and acceptance criteria
+- Write user stories and acceptance criteria
 
-Collaborate with business, product, development, data, and QA teams
+- Collaborate with business, product, development, data, and QA teams
 
-Support solution design, testing, and user acceptance testing
+- Support solution design, testing, and user acceptance testing
 
-Identify bottlenecks and automation opportunities
+- Identify bottlenecks and automation opportunities
 
-Keep business and technical stakeholders aligned
+- Keep business and technical stakeholders aligned
 
 ## 🤖 My interest in AI systems 🚀
 
