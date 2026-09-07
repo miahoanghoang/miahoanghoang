@@ -3,7 +3,7 @@
 <div align="center">
   <strong>Hi, I'm Minh Ánh 👋 🦦</strong><br>
   ─────────────<br>
-  <strong>Business Analyst at Viettel</strong><br>
+  <strong>Business Analyst at Viettel Telecom</strong><br>
   Connecting business needs, workflows, data, and technology.
 </div>
 
