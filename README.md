@@ -1,4 +1,4 @@
-![Minh Ánh — IT Business Analyst](./banner.jpeg)
+![Minh Ánh — IT Business Analyst](./slim%20banner.jpg)
 
 # Hi, I'm Minh Ánh 👋
 
