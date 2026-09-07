@@ -1,4 +1,4 @@
-![Minh Ánh — IT Business Analyst](./minh-anh-github-banner-cartoon.png)
+![Minh Ánh — IT Business Analyst](./banner.jpeg)
 
 # Hi, I'm Minh Ánh 👋
 
