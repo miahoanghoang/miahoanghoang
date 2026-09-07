@@ -1,3 +1,5 @@
+![Minh Ánh — IT Business Analyst](./minh-anh-github-banner-cartoon.png)
+
 # Hi, I'm Minh Ánh 👋
 
 I'm an **Business Analyst at Viettel** with a growing interest in AI systems, intelligent automation, and data-driven products.
