@@ -1,6 +1,6 @@
 ![Minh Ánh — IT Business Analyst](./slim%20banner.jpg)
 
-<h1 align="center">Hi, I'm Minh Ánh 👋🦦</h1>
+<h3 align="center">Hi, I'm Minh Ánh 👋🦦</h3>
 
 <p align="center">
   <strong>Business Analyst at Viettel</strong>
