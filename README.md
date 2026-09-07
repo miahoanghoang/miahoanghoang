@@ -2,89 +2,79 @@
 
 I'm an **Business Analyst at Viettel** with a growing interest in AI systems, intelligent automation, and data-driven products.
 
-I work with business stakeholders and technical teams to understand problems, clarify requirements, improve workflows, and support the delivery of practical technology solutions.
+I work with business stakeholders and technical teams to understand problems, define requirements, improve workflows, and support the delivery of practical technology solutions.
 
-## About me
-
-- 💼 Working as an Business Analyst at Viettel
-- 🔍 Experienced in understanding business problems and user needs
-- ⚙️ Interested in processes, workflows, systems, and automation
-- 📊 Learning more about data analysis and data-driven decision-making
-- 🤖 Exploring how AI systems can solve real business problems
-- 🌱 Working toward becoming a Business Analyst specializing in AI systems
-
-## What I do
+## 💼 What I do
 
 - Gather and analyze business requirements
 - Translate business needs into functional requirements
 - Map business processes, system flows, and data flows
 - Write user stories and acceptance criteria
-- Create workflow and process diagrams
-- Communicate between stakeholders and technical teams
-- Support solution design and feature prioritization
-- Assist with testing and user acceptance testing
+- Collaborate with business, product, development, data, and QA teams
+- Support solution design, testing, and user acceptance testing
 - Identify bottlenecks and automation opportunities
-- Document solutions and keep teams aligned
+- Keep business and technical stakeholders aligned
 
-## My interest in AI systems
+## 🤖 My interest in AI systems
 
-I want to work as a Business Analyst on AI products and systems.
+I want to specialize as a Business Analyst working on AI products and systems.
 
-My goal is to help teams design the complete journey from a business problem to a useful AI-powered solution. This includes understanding:
+My goal is to help teams design the complete journey from a business problem to a useful AI-powered solution. I am particularly interested in:
 
-- The business problem and expected outcome
-- The users, stakeholders, and their requirements
-- How data is collected, processed, and used
-- How information flows through the AI system
-- The inputs and outputs of each part of the system
-- How AI models connect with applications and business workflows
-- Where human review and approval are required
-- How users interact with AI-generated results
-- How system performance and business value are measured
-- How feedback is collected to improve the solution
-- What risks, limitations, and exceptional cases must be considered
+- AI use-case analysis
+- Business and system requirements
+- Data sources and data flows
+- AI inputs, outputs, and integrations
+- Human review and approval processes
+- User interaction with AI-generated results
+- Testing and acceptance criteria for AI systems
+- Performance monitoring and feedback loops
+- Risks, limitations, and exceptional cases
 
-## AI system workflow
+## 🔄 AI system workflow
 
-A typical AI system journey that interests me:
+**Business Problem → Requirements → Data Sources → Data Preparation → AI Model → System Integration → Human Review → User Experience → Monitoring → Feedback**
 
-**Business Problem → Requirements → Data Sources → Data Preparation → AI Model → System Integration → Human Review → User Experience → Monitoring → Feedback and Improvement**
+As a Business Analyst, I want to ensure that every stage supports the original business goal and delivers measurable value to users.
 
-As a Business Analyst, I want to help ensure that every stage supports the original business objective and delivers clear value to users.
+## 🛠️ Tech stack
 
-## Areas of interest
+### Business analysis and collaboration
 
-- AI system business analysis
-- AI product development
-- Requirements engineering
-- Business process improvement
-- System and workflow design
-- Data and automation pipelines
-- Human-in-the-loop workflows
-- AI integration with business systems
-- Data analysis and visualization
-- Digital transformation
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=050038" alt="Miro">
+  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="draw.io">
+</p>
 
-## Skills I'm developing
+### Processes and methodologies
 
-- Business requirements analysis
-- Stakeholder communication
-- Process and workflow modeling
-- System and data-flow analysis
-- User story writing
-- Acceptance criteria definition
-- Agile ways of working
-- SQL and data analysis
-- AI fundamentals
-- AI use-case evaluation
-- AI system testing and monitoring
+<p>
+  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logoColor=white" alt="Agile">
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white" alt="Scrum">
+  <img src="https://img.shields.io/badge/BPMN-7B61FF?style=for-the-badge&logoColor=white" alt="BPMN">
+  <img src="https://img.shields.io/badge/UML-E34F26?style=for-the-badge&logoColor=white" alt="UML">
+</p>
 
-## My goal
+### Data, AI, and development
 
-I want to become a Business Analyst who can connect business users, product teams, data teams, and AI engineers.
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AI_Systems-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems">
+  <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+## 🌱 My goal
+
+I want to become a Business Analyst who connects business users, product teams, data specialists, and AI engineers.
 
 I hope to contribute to AI systems that are practical, understandable, measurable, and designed around real user needs.
 
 ---
 
-**Connecting business needs, workflows, data, and AI systems.**
+### Connecting business needs, workflows, data, and AI systems.
