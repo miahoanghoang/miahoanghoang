@@ -1,14 +1,11 @@
 ![Minh Ánh — IT Business Analyst](./slim%20banner.jpg)
 
-<h3 align="center">Hi, I'm Minh Ánh 👋 🦦</h3>
-
-<p align="center">━━━━━━━━━━━━</p>
-
-<p align="center">
-  <strong>Business Analyst at Viettel</strong>
-  <br>
+<div align="center">
+  <strong>Hi, I'm Minh Ánh 👋 🦦</strong><br>
+  ─────────────<br>
+  <strong>Business Analyst at Viettel</strong><br>
   Connecting business needs, workflows, data, and technology.
-</p>
+</div>
 
 ## 💼 What I do
 
