@@ -1,10 +1,18 @@
 ![Minh Ánh — IT Business Analyst](./slim%20banner.jpg)
 
-# Hi, I'm Minh Ánh 👋
+<h1 align="center">Hi, I'm Minh Ánh 👋</h1>
 
-I'm an **Business Analyst at Viettel** with a growing interest in AI systems, intelligent automation, and data-driven products.
+<p align="center">
+  <strong>IT Business Analyst at Viettel</strong><br>
+  Connecting business needs, workflows, data, and technology.
+</p>
 
-I work with business stakeholders and technical teams to understand problems, define requirements, improve workflows, and support the delivery of practical technology solutions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Business%20Analysis-7C3AED?style=flat-square" alt="Business Analysis">
+  <img src="https://img.shields.io/badge/AI%20Systems-EC4899?style=flat-square" alt="AI Systems">
+  <img src="https://img.shields.io/badge/Workflows-0EA5E9?style=flat-square" alt="Workflows">
+  <img src="https://img.shields.io/badge/Data-10B981?style=flat-square" alt="Data">
+</p>
 
 ## 💼 What I do
 
