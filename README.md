@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mia 👋
 
-<!--
-**miahoanghoang/miahoanghoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Business Analyst at Viettel.
 
-Here are some ideas to get you started:
+I work with business and technical teams to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Analyze business requirements
+- Design processes and workflows
+- Document user stories
+- Support testing
+- Improve data and automation pipelines
+
+I'm interested in business analysis, data, AI, and digital transformation.
+
+## Contact
+
+- LinkedIn: [ADD LINK]
+- Email: [ADD EMAIL]
