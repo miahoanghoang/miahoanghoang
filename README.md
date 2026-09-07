@@ -7,15 +7,13 @@
   Connecting business needs, workflows, data, and technology.
 </p>
 
+## 💼 What I do
 <p align="center">
   <img src="https://img.shields.io/badge/Business%20Analysis-7C3AED?style=flat-square" alt="Business Analysis">
   <img src="https://img.shields.io/badge/AI%20Systems-EC4899?style=flat-square" alt="AI Systems">
   <img src="https://img.shields.io/badge/Workflows-0EA5E9?style=flat-square" alt="Workflows">
   <img src="https://img.shields.io/badge/Data-10B981?style=flat-square" alt="Data">
 </p>
-
-## 💼 What I do
-
 - Gather and analyze business requirements
 - Translate business needs into functional requirements
 - Map business processes, system flows, and data flows
@@ -25,7 +23,7 @@
 - Identify bottlenecks and automation opportunities
 - Keep business and technical stakeholders aligned
 
-## 🤖 My interest in AI systems
+## 🤖 My interest in AI systems 🚀
 
 I want to specialize as a Business Analyst working on AI products and systems.
 
@@ -79,7 +77,7 @@ As a Business Analyst, I want to ensure that every stage supports the original b
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## 🌱 My goal
+## 🎯 My goal
 
 I want to become a Business Analyst who connects business users, product teams, data specialists, and AI engineers.
 
