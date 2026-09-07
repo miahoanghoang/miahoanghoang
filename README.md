@@ -8,9 +8,9 @@
   Connecting business needs, workflows, data, and technology.
 </p>
 
-💼 What I do
+## 💼 What I do
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Business%20Analysis-7C3AED?style=flat-square" alt="Business Analysis">
   <img src="https://img.shields.io/badge/AI%20Systems-EC4899?style=flat-square" alt="AI Systems">
   <img src="https://img.shields.io/badge/Workflows-0EA5E9?style=flat-square" alt="Workflows">
@@ -18,19 +18,12 @@
 </p>
 
 - Gather and analyze business requirements
-
 - Translate business needs into functional requirements
-
 - Map business processes, system flows, and data flows
-
 - Write user stories and acceptance criteria
-
 - Collaborate with business, product, development, data, and QA teams
-
 - Support solution design, testing, and user acceptance testing
-
 - Identify bottlenecks and automation opportunities
-
 - Keep business and technical stakeholders aligned
 
 ## 🤖 My interest in AI systems 🚀
